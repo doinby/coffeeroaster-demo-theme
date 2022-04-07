@@ -1,0 +1,6 @@
+/* npx tailwind -i ./src/tailwind.css -o ./assets/application.css --watch */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

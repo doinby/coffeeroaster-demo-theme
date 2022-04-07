@@ -1,7 +1,7 @@
 module.exports = {
-  content: [],
+  content: ['./**/*.{liquid,json}'],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+};
